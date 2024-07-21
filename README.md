@@ -1,5 +1,5 @@
 # fdi_and_obor
-A repository for the code written for the paper "The Impact of the Belt and Road Initiative on Foreign Direct Investment from China and Other Countries". 
+A repository for the code written for the paper "The Impact of the Belt and Road Initiative on Foreign Direct Investment from China and Other Countries". The foreign direct investment data for this project came from the IMF's Coordinated Direct Investment Survey, and was processed using R. Belt and Road membership data came from the Green Finance & Development Center.
 
 Abstract
 
